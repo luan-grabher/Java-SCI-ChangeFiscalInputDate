@@ -1,0 +1,1 @@
+a = MsgBox("A Instalacao Foi Concluida! " & vbCrlf & "Verifique sua Area de Trabalho!",0,"Fim da Instalacao")
